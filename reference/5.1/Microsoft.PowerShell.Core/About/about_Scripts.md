@@ -191,7 +191,7 @@ You can write a help topic for a script by using either of the two following met
 
 --  Comment-Based Help for Scripts
 
-Create a Help topic by using special keywords in the comments. To create comment-based Help for a script, the comments must be placed at the beginning or end of the script file. For more information about comment-based Help, see about_Comment_Based_Help.
+Create a Help topic by using special keywords in the comments. To create comment-based Help for a script, the comments must be placed at the beginning or end of the script file. For more information about comment-based Help, see [about_Comment_Based_Help](about_Comment_Based_Help.md).
 
 --  XML-Based Help  for Scripts
 
